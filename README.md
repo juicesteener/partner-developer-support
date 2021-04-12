@@ -1,24 +1,29 @@
 # Partner-Developer-Support-Requests
-Request intake form to request Partner Support's assistance for a workflow, product release, launch etc. 
+Intake form to request Partner / API  / Developer Support's assistance for a workflow, product release, launch etc. 
+Have you read our Partner/Developer Support scope page in Vault?
 
-
-
-**TLDR of the ask:**
+**TLDR / Summary of the request:**
 
 **Who is requesting this? (Name of Owner/ Role/Product Line)**
 
-**What is it that you're looking for Support with? Please describe the ask in detail?**
+**What problem are you solving? Why is partner support the best team to help?**
+_Example questions to ask yourself:_
+_Why should this be handled by Support?_
+_Why can’t this be automated?_
+_Why can’t this be built by Product?_
 
-**What type of volume are we anticipating?**
+VOLUME/TIMEFRAME
 
-**Timeline for this request?**
+**What volume of incoming tickets is anticipated**
+
+**Timeline for this request? (Details on important launch/release dates)**
 
 **Temporary or Permanent ask?**
 
-**Do you have an already set workflow in mind?**
+RESOURCES/WORKFLOW
 
-**What resources exists for this already?**
+**What is your proposed workflow?**
 
-**What tripwires/friction are in place to help support this?**
-
-**Is there Risk for this workflow? What happens if our specialists do this incorrectly?**
+**Link to channel/owner that support can contact for process questions** 
+**Link to project brief**
+**Link to Vault Project board (if any)**
