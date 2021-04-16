@@ -1,4 +1,4 @@
-# Partner-Developer-Support-Requests
+# Partner Developer Support Requests
 _Intake form to request Partner / API  / Developer Support's assistance for a workflow, product release, launch etc._
 
 Have you read our Partner/Developer Support scope page in Vault? (Link our scope docs once created)
